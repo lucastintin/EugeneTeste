@@ -1,0 +1,97 @@
+==Arena do Eugene==
+Monstro 1 Nv. 2
+ATK..... 590
+DEF..... 420
+DEX..... 540
+VIT..... 500
+Monstro 2 Nv. 2
+ATK..... 530
+DEF..... 440
+DEX..... 480
+VIT..... 600
+Monstro 1 tem a iniciativa do combate
+Monstro 1 causou 160 de dano.
+Vida do Monstro 1 = 500
+Vida do Monstro 2 = 440
+Monstro 2 causou 112 de dano.
+Vida do Monstro 1 = 388
+Vida do Monstro 2 = 440
+Monstro 1 causou 138 de dano.
+Vida do Monstro 1 = 388
+Vida do Monstro 2 = 302
+Monstro 2 causou 126 de dano.
+Vida do Monstro 1 = 262
+Vida do Monstro 2 = 302
+Monstro 1 causou 140 de dano.
+Vida do Monstro 1 = 262
+Vida do Monstro 2 = 162
+Monstro 2 causou 113 de dano.
+Vida do Monstro 1 = 149
+Vida do Monstro 2 = 162
+Monstro 1 causou 137 de dano.
+Vida do Monstro 1 = 149
+Vida do Monstro 2 = 25
+Monstro 2 causou 106 de dano.
+Vida do Monstro 1 = 43
+Vida do Monstro 2 = 25
+Monstro 1 causou 149 de dano.
+Vida do Monstro 1 = 43
+Vida do Monstro 2 = -124
+Monstro 1 venceu!
+=========
+Nome.... Monstro 1
+Tipo.... Verde
+Nivel... 2
+ATK..... 540(80)
+DEF..... 420(40)
+DEX..... 460(20)
+VIT..... 630(60)
+Nome.... Monstro 2
+Tipo.... Vermelho
+Nivel... 2
+ATK..... 520(70)
+DEF..... 490(40)
+DEX..... 480(30)
+VIT..... 560(60)
+Monstro 2 tem a iniciativa do combate
+Monstro 2 causou 86 de dano.
+Vida do Monstro 1 = 544
+Vida do Monstro 2 = 560
+Monstro 1 causou 54 de dano.
+Vida do Monstro 1 = 544
+Vida do Monstro 2 = 506
+Monstro 2 causou 97 de dano.
+Vida do Monstro 1 = 447
+Vida do Monstro 2 = 506
+Monstro 1 causou 40 de dano.
+Vida do Monstro 1 = 447
+Vida do Monstro 2 = 466
+Monstro 2 causou 105 de dano.
+Vida do Monstro 1 = 342
+Vida do Monstro 2 = 466
+Monstro 1 causou 67 de dano.
+Vida do Monstro 1 = 342
+Vida do Monstro 2 = 399
+Monstro 2 causou 99 de dano.
+Vida do Monstro 1 = 243
+Vida do Monstro 2 = 399
+Monstro 1 causou 52 de dano.
+Vida do Monstro 1 = 243
+Vida do Monstro 2 = 347
+Monstro 2 causou 100 de dano.
+Vida do Monstro 1 = 143
+Vida do Monstro 2 = 347
+Monstro 1 causou 53 de dano.
+Vida do Monstro 1 = 143
+Vida do Monstro 2 = 294
+Monstro 2 causou 106 de dano.
+Vida do Monstro 1 = 37
+Vida do Monstro 2 = 294
+Monstro 1 causou 58 de dano.
+Vida do Monstro 1 = 37
+Vida do Monstro 2 = 236
+Monstro 2 causou 103 de dano.
+Vida do Monstro 1 = -66
+Vida do Monstro 2 = 236
+Monstro 2 venceu!
+===
